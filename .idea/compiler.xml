@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="g43-junit-testing" />
+        <module name="workshop.second" />
+        <module name="workshopThird.Vendor" />
+        <module name="g43-oop-bank-workshop" />
+        <module name="employee.programmer" />
+        <module name="g43-oop-bank" />
+        <module name="week.4.classes" />
+        <module name="workshopBankAccount" />
+        <module name="collection.exercise" />
+        <module name="demo.exercise" />
+        <module name="junit.test.exercises" />
+        <module name="Lexicon.First.workshop" />
+        <module name="Lexicon.First.Test.Unit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collection.exercise" target="1.8" />
+      <module name="demo.exercise" target="1.8" />
+      <module name="employee.programmer" target="1.8" />
+      <module name="g43-junit-testing" target="1.8" />
+      <module name="g43-oop-bank" target="1.8" />
+      <module name="g43-oop-bank-workshop" target="1.8" />
+      <module name="g43_workshop_arrays" target="1.8" />
+      <module name="interface.abstrac.inheritanc" target="1.8" />
+      <module name="junit.test.exercises" target="1.8" />
+      <module name="Lexicon.First.Test.Unit" target="1.8" />
+      <module name="Lexicon.First.workshop" target="1.8" />
+      <module name="week.4.classes" target="1.8" />
+      <module name="workshop.second" target="1.8" />
+      <module name="workshopBankAccount" target="18" />
+      <module name="workshopThird.Vendor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

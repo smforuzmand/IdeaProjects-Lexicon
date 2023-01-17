@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0262c0e-1a26-45ad-afe9-1336c44960a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.idea/dataSources/8ea599cd-ef69-4d1f-8f4a-8e93a4d07ae5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.idea/dataSources/8ea599cd-ef69-4d1f-8f4a-8e93a4d07ae5/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.idea/dataSources/8ea599cd-ef69-4d1f-8f4a-8e93a4d07ae5/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.idea/dataSources/8ea599cd-ef69-4d1f-8f4a-8e93a4d07ae5/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/.idea/dataSources/8ea599cd-ef69-4d1f-8f4a-8e93a4d07ae5/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection.exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection.exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection.exercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection.exercise/challenges.exercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection.exercise/elementary.exercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.exercises/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.exercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.exercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/src/main/java/lexicon/se/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/src/main/java/lexicon/se/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/src/main/java/lexicon/se/SalesPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/src/main/java/lexicon/se/SystemDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/enum.dice.exercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/src/main/java/lexicon/se/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/src/test/java/kata/RomanNumerical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_numerical/src/test/java/kata/RomanNumericalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/src/main/java/lexicon/se/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week.4.classes/src/main/java/lexicon/se/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/src/main/java/lexicon/se/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/src/main/java/lexicon/se/dao/BankAccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/src/main/java/lexicon/se/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/src/main/java/lexicon/se/model/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop.second/src/main/java/lexicon/se/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshopThird.Vendor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshopThird.Vendor/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshopThird.Vendor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshopThird.Vendor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshopThird.Vendor/src/test/java/model/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/database/vaccine_booking Table Creating.sql" beforeDir="false" afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/database/vaccine_booking Table Creating.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/src/main/java/se/lexicon/data/collections/PatientDAOIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/src/main/java/se/lexicon/data/collections/PatientDAOIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/src/main/java/se/lexicon/data/jdbc/ContactInfoDAOJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking/src/main/java/se/lexicon/data/jdbc/ContactInfoDAOJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-CSS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-CSS/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/dataBase/mySQL.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/dataBase/mySQL.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/dao/GenericDaoCRUDOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/dao/GenericDaoCRUDOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/dao/TestTableDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/dao/TestTableDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/jdbc/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/jdbc/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/jdbc/DataBaseCredential.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/jdbc/DataBaseCredential.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/jdbc/TestTAbleDAOJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/jdbc/TestTAbleDAOJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/model/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/main/java/model/TestTableEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/main/java/model/TestTableEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/test/java/model/BookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital/src/test/java/model/BookingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one.singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one.singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/AppUserDAoCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/AppUserDAoCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/PersonDAOCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/PersonDAOCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/TodoItemDAOCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/TodoItemDAOCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/TodoItemTaskDAOCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/dao/implementations/TodoItemTaskDAOCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/model/ToDoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/model/ToDoItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/model/ToDoItemTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/main/java/org/example/model/ToDoItemTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/test/java/org/example/ToDoItemTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/test/java/org/example/model/ToDoItemTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/test/java/org/example/model/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/test/java/org/example/model/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.one/src/test/java/org/example/model/ToDoItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.one/src/test/java/org/example/model/ToDoItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection.exercise/challenges.exercise/src/main/java/lexicon/se/SuperHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection.exercise/challenges.exercise/src/main/java/lexicon/se/SuperHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection.exercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/collection.exercise/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_Relational.mapping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_Relational.mapping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_Relational.mapping/src/main/java/se/lexicon/exercise_relational_mapping/SpringBootJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_Relational.mapping/src/main/java/se/lexicon/exercise_relational_mapping/SpringBootJpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_entitiy.JPA/src/main/java/se/lexicom/exercise_entitiy_jpa/dao/TodoItemDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_entitiy.JPA/src/main/java/se/lexicom/exercise_entitiy_jpa/dao/TodoItemDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/src/main/java/se/lexicon/spring_bootmvcthymeleaf/model/dto/CategoryForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/src/main/java/se/lexicon/spring_bootmvcthymeleaf/model/dto/CategoryForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/src/main/java/se/lexicon/spring_bootrestful_api/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/src/main/java/se/lexicon/spring_bootrestful_api/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-lecture/src/main/java/se/lexicon/ConsumerExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-lecture/src/main/java/se/lexicon/ConsumerExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-lecture/src/main/java/se/lexicon/PredicateExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-lecture/src/main/java/se/lexicon/PredicateExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g43-java-standard-edition/fundamentals-calculator/src/main/java/se/lexicon/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/g43-java-standard-edition/fundamentals-calculator/src/main/java/se/lexicon/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g43-oop-bank/src/main/java/se/lexicon/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/g43-oop-bank/src/main/java/se/lexicon/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance.exercises/src/main/java/lexicon/se/program2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.exercises/src/main/java/lexicon/se/program2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface.abstrac.inheritanc/interface.exercise/src/main/java/lexicon/se/BasicMyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/interface.exercise/src/main/java/lexicon/se/BasicMyCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface.abstrac.inheritanc/interface.exercise/src/main/java/lexicon/se/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface.abstrac.inheritanc/interface.exercise/src/main/java/lexicon/se/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpaWorkshop/src/main/java/se/lexicon/jpaworkshop/data/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpaWorkshop/src/main/java/se/lexicon/jpaworkshop/data/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopThird.Vendor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/workshopThird.Vendor/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jpa_assignment" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C19y6w1DjhvEePJn7eYKG2Wm44" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/caree/IdeaProjects-Lexicon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ruby.rails.projectView.checked": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0262c0e-1a26-45ad-afe9-1336c44960a5" name="Changes" comment="" />
+      <created>1657959474590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657959474590</updated>
+      <workItem from="1668373242628" duration="213000" />
+      <workItem from="1668374828836" duration="138000" />
+      <workItem from="1668411651614" duration="47000" />
+      <workItem from="1668549847857" duration="1062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

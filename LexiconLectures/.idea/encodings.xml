@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/g43-frontend-master/3-react/react-workshop-2/backend/people-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-frontend-master/3-react/react-workshop-2/backend/people-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/jpa-workshop-library/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/jpa-workshop-library/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring-ioc-di-lecture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring-ioc-di-lecture/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-jpa-lecture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-jpa-lecture/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-standard-edition/functional-stream_api-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-standard-edition/functional-stream_api-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-standard-edition/g43_workshop_arrays/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/g43-java-standard-edition/g43_workshop_arrays/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

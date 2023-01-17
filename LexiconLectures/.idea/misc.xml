@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/g43-frontend-master/3-react/react-workshop-2/backend/people-api/pom.xml" />
+        <option value="$PROJECT_DIR$/g43-java-standard-edition/pom.xml" />
+        <option value="$PROJECT_DIR$/g43-java-enterprise-edition/jpa-workshop-library/pom.xml" />
+        <option value="$PROJECT_DIR$/g43-java-enterprise-edition/spring-ioc-di-lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-jpa-lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/pom.xml" />
+        <option value="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18 (2)" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

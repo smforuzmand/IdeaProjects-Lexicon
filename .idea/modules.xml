@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lexicon.First.Test.Unit/Lexicon.First.Test.Unit.iml" filepath="$PROJECT_DIR$/Lexicon.First.Test.Unit/Lexicon.First.Test.Unit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lexicon.First.workshop/Lexicon.First.workshop.iml" filepath="$PROJECT_DIR$/Lexicon.First.workshop/Lexicon.First.workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection.exercise/collection.exercise.iml" filepath="$PROJECT_DIR$/collection.exercise/collection.exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.exercise/demo.exercise.iml" filepath="$PROJECT_DIR$/demo.exercise/demo.exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/employee.programmer.iml" filepath="$PROJECT_DIR$/interface.abstrac.inheritanc/employee.programmer/employee.programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment.one/g43-junit-testing.iml" filepath="$PROJECT_DIR$/assignment.one/g43-junit-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-oop-bank/g43-oop-bank.iml" filepath="$PROJECT_DIR$/g43-oop-bank/g43-oop-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-oop-bank-workshop/g43-oop-bank-workshop.iml" filepath="$PROJECT_DIR$/g43-oop-bank-workshop/g43-oop-bank-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface.abstrac.inheritanc/interface.abstrac.inheritanc.iml" filepath="$PROJECT_DIR$/interface.abstrac.inheritanc/interface.abstrac.inheritanc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit.test.exercises/junit.test.exercises.iml" filepath="$PROJECT_DIR$/junit.test.exercises/junit.test.exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week.4.classes/week.4.classes.iml" filepath="$PROJECT_DIR$/week.4.classes/week.4.classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop.second/workshop.second.iml" filepath="$PROJECT_DIR$/workshop.second/workshop.second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshopBankAccount/workshopBankAccount.iml" filepath="$PROJECT_DIR$/workshopBankAccount/workshopBankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshopThird.Vendor/workshopThird.Vendor.iml" filepath="$PROJECT_DIR$/workshopThird.Vendor/workshopThird.Vendor.iml" />
+    </modules>
+  </component>
+</project>

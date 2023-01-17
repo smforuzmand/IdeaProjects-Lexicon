@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/03_Java_util_function_exercises/dataBase_Exercise_JDBC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_Java_util_function_exercises/g43-oop-vaccine-booking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_Java_util_function_exercises/java-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HTML-CSS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hospital" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lexicon.First.Test.Unit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lexicon.First.workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignment.one" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignment.one.singleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/collection.exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cuddly-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo.exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise_Relational.mapping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise_entitiy.JPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-java-enterprise-edition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-java-enterprise-edition/g43-frontend1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-java-standard-edition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-oop-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-oop-bank-workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritance.exercises" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interface.abstrac.inheritanc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpaWorkshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa_assignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/junit.test.exercises" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restAPI_workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roman_numerical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week.4.classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop.second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshopBankAccount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshopThird.Vendor" vcs="Git" />
+  </component>
+</project>

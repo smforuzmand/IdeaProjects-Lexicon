@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LexiconLectures.iml" filepath="$PROJECT_DIR$/.idea/LexiconLectures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/collections-lecture/collections-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/collections-lecture/collections-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/database-jdbc_api-lecture/database-jdbc_api-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/database-jdbc_api-lecture/database-jdbc_api-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/enum-lecture/enum-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/enum-lecture/enum-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-exercise/functional-java_util_function-exercise.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-exercise/functional-java_util_function-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-lecture/functional-java_util_function-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/functional-java_util_function-lecture/functional-java_util_function-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/functional-stream_api-exercise/functional-stream_api-exercise.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/functional-stream_api-exercise/functional-stream_api-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/functional-stream_api-lecture/functional-stream_api-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/functional-stream_api-lecture/functional-stream_api-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/functional_interfaces_Lambda-lecture/functional_interfaces_Lambda-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/functional_interfaces_Lambda-lecture/functional_interfaces_Lambda-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/fundamentals-calculator/fundamentals-calculator.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/fundamentals-calculator/fundamentals-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/fundamentals-lecture/fundamentals-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/fundamentals-lecture/fundamentals-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/fundamentals-practice/fundamentals-practice.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/fundamentals-practice/fundamentals-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/g43-java-standard-edition.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/g43-java-standard-edition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/g43-junit-testing/g43-junit-testing.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/g43-junit-testing/g43-junit-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/g43-oop-bank/g43-oop-bank.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/g43-oop-bank/g43-oop-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/g43-oop-bank-workshop/g43-oop-bank-workshop.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/g43-oop-bank-workshop/g43-oop-bank-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/g43-oop-vaccine-booking/g43-oop-vaccine-booking.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/g43-oop-vaccine-booking/g43-oop-vaccine-booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/g43_workshop_arrays/g43_workshop_arrays.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/g43_workshop_arrays/g43_workshop_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/java-time-api/java-time-api.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/java-time-api/java-time-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-enterprise-edition/jpa-workshop-library/jpa-workshop-library.iml" filepath="$PROJECT_DIR$/g43-java-enterprise-edition/jpa-workshop-library/jpa-workshop-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/my-first-project/my-first-project.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/my-first-project/my-first-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/oop-class_inheritance/oop-class_inheritance.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/oop-class_inheritance/oop-class_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/oop-exercise/oop-exercise.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/oop-exercise/oop-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/oop-interface-lecture/oop-interface-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/oop-interface-lecture/oop-interface-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/oop-lecture/oop-lecture.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/oop-lecture/oop-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-standard-edition/oop-static-instance/oop-static-instance.iml" filepath="$PROJECT_DIR$/g43-java-standard-edition/oop-static-instance/oop-static-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-frontend-master/3-react/react-workshop-2/backend/people-api/people-api.iml" filepath="$PROJECT_DIR$/g43-frontend-master/3-react/react-workshop-2/backend/people-api/people-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring-ioc-di-lecture/spring-ioc-di-lecture.iml" filepath="$PROJECT_DIR$/g43-java-enterprise-edition/spring-ioc-di-lecture/spring-ioc-di-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-jpa-lecture/spring_boot-jpa-lecture.iml" filepath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-jpa-lecture/spring_boot-jpa-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/spring_boot-mvc-thymeleaf.iml" filepath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-mvc-thymeleaf/spring_boot-mvc-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/spring_boot-restful_api.iml" filepath="$PROJECT_DIR$/g43-java-enterprise-edition/spring_boot-restful_api/spring_boot-restful_api.iml" />
+    </modules>
+  </component>
+</project>

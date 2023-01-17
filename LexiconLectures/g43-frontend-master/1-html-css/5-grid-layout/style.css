@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+  width: 1440px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: beige;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 0.5fr 1fr 1fr 1fr 0.5fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    'nav nav nav nav nav nav'
+    'menu main main main main advert'
+    'menu main main main main advert'
+    'menu main main main main advert'
+    'footer footer footer footer footer footer';
+}
+
+.nav {
+  grid-area: nav;
+  background-color: lightsalmon;
+
+  /*Inner Grid*/
+  display: grid; 
+  grid-template-columns: 0.5fr 2fr 0.5fr; 
+  grid-template-rows: 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    "logo link login"; 
+  grid-area: nav; 
+
+  justify-items: center;
+  align-items: center;
+
+}
+
+.logo{
+    grid-area: logo;
+}
+
+.link{
+    grid-area: link;
+
+}
+.link > ol{
+    list-style-type: none;    
+    text-transform: uppercase;
+    font-size: 0.7rem;
+}
+.link > ol > li{
+    float: left;
+    padding: 12px;
+
+}
+
+.login{
+    grid-area: login;
+}
+
+.login > a{
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu {
+  background-color: lightseagreen;
+  grid-area: menu;
+}
+
+.main {
+  background-color: lightpink;
+  grid-area: main;
+}
+
+.advert {
+  background-color: lightcoral;
+  grid-area: advert;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: lightblue;
+}

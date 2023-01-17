@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- html is an ELEMENT or TAG   "lang" is an attribute with a value-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Component</title>
+</head>
+
+<body>
+
+    <h1>Header 1</h1>
+    <h2>Växjö</h2>
+    <h3>Växjö</h3>
+    <h4>Växjö</h4>
+    <h5>Växjö</h5>
+    <h6>Växjö</h6>
+
+    <p>Växjö</p>
+
+    <hr />
+
+
+    <!-- Links - Anchor tag -->
+
+
+    <a href="http://www.google.com">Link to Google.com</a>
+
+    <!--_blank: It opens the link in a new window.-->
+    <!--_self: It opens the linked document in the same frame.-->
+    <!--_parent: It opens the linked document in the parent frameset.-->
+    <!--_top: It opens the linked document in the full body of the window.-->
+    <!--framename: It opens the linked document in the named frame-->
+
+    <!--https://www.w3schools.com/tags/att_a_target.asp -->
+    <a href="http://www.lexicon.se" target="_blank">Link to lexicon.se</a>
+
+    <div>
+        <img src="IMG/java_logo_horizontal.png" alt="A cup of coffe with the word Java under it." width="200px">
+    </div>
+
+    <hr>
+
+
+
+    <p>This is a <b>bold text</b>.</p>
+    <p>This is <strong>strongly important text</strong>.</p>
+    <p>This is <i>italic text</i>.</p>
+    <p>This is <em>emphasized text</em>.</p>
+    <p>This is <mark>highlighted text</mark> .</p>
+    <p>This is <code>computer code</code>.</p>
+    <p>This is <small>smaller text</small>.</p>
+    <p>This is <sub>subscript</sub> and <sup>superscript</sup> text.</p>
+    <p>This is <del>deleted text</del>.</p>
+    <p>This is <ins>inserted text</ins>.</p>
+
+    <hr>
+
+
+    <ul>
+        <!-- unorderd list with list items -->
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+    </ul>
+
+    <ol>
+        <!-- orderd list with list items -->
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+    </ol>
+
+    <hr>
+    <!-- TABLE -->
+
+    <table border="1" cellpadding="5">
+        <thead>
+            <!-- Table Head -->
+            <tr>
+                <!-- Table Row -->
+                <td>ID</td> <!-- Table Data -->
+                <td>NAME</td>
+                <td>EMAIL</td>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Simon</td>
+                <td>simon@lexicon.se</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Åsa</td>
+                <td>asa@lexicon.se</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <hr>
+
+
+    <!--https://www.w3schools.com/html/html_form_elements.asp-->
+    <fieldset>
+        <legend>Register Form</legend>
+        <form action="#">
+
+            <label for="firstname">First Name:</label> <br />
+            <input type="text" name="firstname" id="firstname"> <br />
+
+            <label for="lastname">Last Name:</label> <br />
+            <input type="text" name="lastname" id="lastname"> <br />
+
+            <label for="birthdate">birth Date:</label> <br />
+            <input type="date" name="birthdate" id="birthdate"> <br />
+
+            <label for="password">Password:</label> <br />
+            <input type="password" name="password" id="password"> <br />
+
+            <fieldset>
+                <legend>Hobbies</legend>
+
+
+                <input type="checkbox" name="hobby" value="sport" id="sport">
+                <label for="sport">Sport</label>
+                <input type="checkbox" name="hobby" value="music" id="music">
+                <label for="music">Music</label>
+                <input type="checkbox" name="hobby" value="reading" id="reading">
+                <label for="reading">Reading</label>
+                <input type="checkbox" name="hobby" value="programming" id="programming">
+                <label for="programming">Programming</label>
+
+            </fieldset>
+
+            <fieldset>
+
+                <legend>Gender</legend>
+                <input type="radio" name="gender" id="male" value="male">
+                <label for="male">Male</label>
+                <input type="radio" name="gender" id="female" value="female">
+                <label for="female">Female</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Car</legend>
+                <select>
+                    <option value="none" selected disabled hidden>Select an Option</option>
+
+                    <optgroup label="Sports Cars">
+                        <option value="ferrari">Ferrari</option>
+                        <option value="lamborghini">Lamborghini</option>
+                    </optgroup>
+
+                    <optgroup label="Luxury cars">
+                        <option value="bentley">Bentley</option>
+                        <option value="mercedes">Mercedes</option>
+                    </optgroup>
+                    <option value="other">other</option>
+                </select>
+            </fieldset>
+
+
+            <button type="submit">Register</button>
+
+        </form>
+
+    </fieldset>
+
+    <!-- http://127.0.0.1:5500/Lecture%201/2%20basic-components/basic-html-components.html?firstname=Simon&lastname=Elbrink&birthdate=2022-09-23&password=123&hobby=music&hobby=reading&hobby=programming&gender=male#  -->
+
+</body>
+
+</html>

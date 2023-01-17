@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Hospital" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g43-oop-bank-workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpaWorkshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restAPI_workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop.second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshopBankAccount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshopThird.Vendor" vcs="Git" />
+  </component>
+</project>

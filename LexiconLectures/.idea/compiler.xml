@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fundamentals-practice" />
+        <module name="my-first-project" />
+        <module name="functional-java_util_function-lecture" />
+        <module name="functional-stream_api-exercise" />
+        <module name="jpa-workshop-library" />
+        <module name="fundamentals-lecture" />
+        <module name="g43_workshop_arrays" />
+        <module name="database-jdbc_api-lecture" />
+        <module name="g43-junit-testing" />
+        <module name="oop-static-instance" />
+        <module name="functional_interfaces_Lambda-lecture" />
+        <module name="functional-stream_api-lecture" />
+        <module name="spring_boot-jpa-lecture" />
+        <module name="spring_boot-restful_api" />
+        <module name="java-time-api" />
+        <module name="collections-lecture" />
+        <module name="functional-java_util_function-exercise" />
+        <module name="oop-exercise" />
+        <module name="spring-ioc-di-lecture" />
+        <module name="oop-lecture" />
+        <module name="g43-oop-vaccine-booking" />
+        <module name="g43-oop-bank-workshop" />
+        <module name="fundamentals-calculator" />
+        <module name="people-api" />
+        <module name="g43-oop-bank" />
+        <module name="enum-lecture" />
+        <module name="oop-interface-lecture" />
+        <module name="oop-class_inheritance" />
+        <module name="spring_boot-mvc-thymeleaf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collections-lecture" target="1.8" />
+      <module name="database-jdbc_api-lecture" target="1.8" />
+      <module name="enum-lecture" target="1.8" />
+      <module name="functional-java_util_function-exercise" target="1.8" />
+      <module name="functional-java_util_function-lecture" target="1.8" />
+      <module name="functional-stream_api-exercise" target="1.8" />
+      <module name="functional-stream_api-lecture" target="1.8" />
+      <module name="functional_interfaces_Lambda-lecture" target="1.8" />
+      <module name="fundamentals-calculator" target="1.8" />
+      <module name="fundamentals-lecture" target="1.8" />
+      <module name="fundamentals-practice" target="1.8" />
+      <module name="g43-java-standard-edition" target="1.8" />
+      <module name="g43-junit-testing" target="1.8" />
+      <module name="g43-oop-bank" target="1.8" />
+      <module name="g43-oop-bank-workshop" target="1.8" />
+      <module name="g43-oop-vaccine-booking" target="1.8" />
+      <module name="g43_workshop_arrays" target="1.8" />
+      <module name="java-time-api" target="17" />
+      <module name="jpa-workshop-library" target="1.8" />
+      <module name="my-first-project" target="1.8" />
+      <module name="oop-class_inheritance" target="1.8" />
+      <module name="oop-exercise" target="17" />
+      <module name="oop-interface-lecture" target="1.8" />
+      <module name="oop-lecture" target="17" />
+      <module name="oop-static-instance" target="17" />
+      <module name="people-api" target="1.8" />
+      <module name="spring-ioc-di-lecture" target="1.8" />
+      <module name="spring_boot-jpa-lecture" target="1.8" />
+      <module name="spring_boot-mvc-thymeleaf" target="1.8" />
+      <module name="spring_boot-restful_api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jpa-workshop-library" options="-parameters" />
+      <module name="people-api" options="-parameters" />
+      <module name="spring_boot-jpa-lecture" options="-parameters" />
+      <module name="spring_boot-mvc-thymeleaf" options="-parameters" />
+      <module name="spring_boot-restful_api" options="-parameters" />
+    </option>
+  </component>
+</project>
